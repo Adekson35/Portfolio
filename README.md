@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a strong background in collecting, interpreting, and visualizing data to drive strategic business decisions. Skilled in data modeling, and visualization tools to uncover insights, improve processes, and optimize performance. Proficient in Excel, and BI tools like Tableau and Power BI.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
