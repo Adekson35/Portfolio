@@ -26,7 +26,7 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 
 What are the key drivers of employee attrition?
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](project presentation healthcare.pdf)
 
 
 [Get this course](https://selar.co/q688i7)
