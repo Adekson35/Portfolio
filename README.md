@@ -29,7 +29,6 @@ What are the key drivers of employee attrition?
 [Read More](project presentation healthcare.pdf)
 
 
-[Get this course](https://selar.co/q688i7)
 
 
 ## CONTACT DETAILS
@@ -51,7 +50,7 @@ What are the key drivers of employee attrition?
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https:">Download my CV</a></td>
+      <td><a href="https:SAMMY DATA RESUME.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
