@@ -22,7 +22,7 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 *A glimpse of some of the projects I've been working on.*
 
 **Analyse attrriton in healthcare center and also determine the factor that influence attrition rate .**
-![image](assets/car2.jpeg)
+![image]({68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg)
 
 What are the key drivers of employee attrition?
 
