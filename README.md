@@ -24,8 +24,7 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 **Analyse attrriton in healthcare center and also determine the factor that influence attrition rate .**
 ![image](assets/car2.jpeg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
+What are the key drivers of employee attrition?
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
