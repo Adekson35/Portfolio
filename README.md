@@ -59,7 +59,7 @@ What are the key drivers of employee attrition?
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/samueladekunle1">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/samuel">LinkedIn</a></td>
     </tr>
      </tbody>
 </table>
