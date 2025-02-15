@@ -26,6 +26,8 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 
 ![image]({B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg)
 
+![image]({B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg)
+
 
 What are the key drivers of employee attrition?
 [Read More](project presentation healthcare.pdf)
