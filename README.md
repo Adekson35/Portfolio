@@ -25,67 +25,35 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 
 **Analyse attrriton in healthcare center and also determine the factor that influence attrition rate .**
 
+
+</body>
+</html>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Slideshow</title>
+    <title>Horizontal Images</title>
     <style>
-        body { text-align: center; font-family: Arial, sans-serif; }
-        .slideshow-container { position: relative; max-width: 600px; margin: auto; }
-        img { width: 100%; height: auto; display: none; }
-        .active { display: block; }
-        .prev, .next {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            font-size: 24px;
-            padding: 10px;
-            background: rgba(0,0,0,0.5);
-            color: white;
-            cursor: pointer;
+        .container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
         }
-        .prev { left: 0; }
-        .next { right: 0; }
+        .container img {
+            width: 200px;
+        }
     </style>
 </head>
 <body>
-
-<h4>healthcare attrition dashboard</h4>
-
-<div class="slideshow-container">
-    <img src="{68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg" class="active">
-    <img src="{B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg">
-    <img src="{B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg">
-    
-    <div class="prev" onclick="changeSlide(-1)">&#10094;</div>
-    <div class="next" onclick="changeSlide(1)">&#10095;</div>
-</div>
-
-<script>
-    let slideIndex = 0;
-    const slides = document.querySelectorAll(".slideshow-container img");
-
-    function showSlide(index) {
-        slides.forEach(slide => slide.classList.remove("active"));
-        slides[index].classList.add("active");
-    }
-
-    function changeSlide(direction) {
-        slideIndex += direction;
-        if (slideIndex < 0) slideIndex = slides.length - 1;
-        if (slideIndex >= slides.length) slideIndex = 0;
-        showSlide(slideIndex);
-    }
-
-    setInterval(() => changeSlide(1), 3000); // Auto-slide every 3 seconds
-</script>
-
+    <div class="container">
+        <img src="{68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg" alt="Image 1">
+        <img src="{B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg" alt="Image 2">
+        <img src="{B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg" alt="Image 3">
+    </div>
 </body>
 </html>
-
-
 
 What are the key drivers of employee attrition?
 [Read More](project presentation healthcare.pdf)
