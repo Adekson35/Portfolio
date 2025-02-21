@@ -55,10 +55,10 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
         .slides {
             display: flex;
             width: 250%;
-            animation: slide 7s infinite;
+            animation: slide 15s infinite;
         }
         .slides img {
-            width: 50%;
+            width: 45%;
         }
         @keyframes slide {
             0% { transform: translateX(0); }
