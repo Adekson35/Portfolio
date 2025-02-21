@@ -38,7 +38,7 @@ What are the key drivers of employee attrition?
 
 
 Analyze sales Trends and product revenue
-[Read More](project presentation healthcare.pdf
+[Read More](coffee shop presentation.pdf)
 
 
 ## CONTACT DETAILS
