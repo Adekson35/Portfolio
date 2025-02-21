@@ -33,7 +33,12 @@ What are the key drivers of employee attrition?
 [Read More](project presentation healthcare.pdf)
 
 
+**Coffee shop sales analysis .**
+![image]({68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg)
 
+
+Analyze sales Trends and product revenue
+[Read More](project presentation healthcare.pdf
 
 
 ## CONTACT DETAILS
