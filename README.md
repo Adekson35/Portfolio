@@ -34,7 +34,7 @@ What are the key drivers of employee attrition?
 
 
 **Coffee shop sales analysis .**
-![image]({68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg)
+![image](Annotation 2025-02-16 194716.jpg)
 
 
 Analyze sales Trends and product revenue
