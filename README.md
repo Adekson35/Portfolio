@@ -25,10 +25,6 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 
 **Analyse attrriton in healthcare center and also determine the factor that influence attrition rate .**
 
-![Slide 1]({68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg)
-![Slide 2]({B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg)
-![Slide 3]({B7C1CEE6-DB4A-4ACD-A405-DB9296ED1D39}.png.jpg)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,8 +46,8 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
     <div class="slider-container">
         <div class="slides">
             <div class="slide"><img src="{68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg" alt="Slide 1"></div>
-            <div class="slide"><img src="https://via.placeholder.com/600x300/33FF57/FFF?text=Slide+2" alt="Slide 2"></div>
-            <div class="slide"><img src="https://via.placeholder.com/600x300/3357FF/FFF?text=Slide+3" alt="Slide 3"></div>
+            <div class="slide"><img src="{B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg" alt="Slide 2"></div>
+            <div class="slide"><img src="{B7C1CEE6-DB4A-4ACD-A405-DB9296ED1D39}.png.jpg" alt="Slide 3"></div>
         </div>
         <div class="buttons">
             <button id="prev">&#10094;</button>
