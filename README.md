@@ -44,18 +44,18 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
     <title>Image Slider</title>
     <style>
         .slider {
-            width: 500px;
-            height: 300px;
+            width: 600px;
+            height: 400px;
             position: relative;
             overflow: hidden;
         }
         .slides {
             display: flex;
             width: 300%;
-            animation: slide 6s infinite;
+            animation: slide 10s infinite;
         }
         .slides img {
-            width: 100%;
+            width: 50%;
         }
         @keyframes slide {
             0% { transform: translateX(0); }
