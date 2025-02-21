@@ -22,17 +22,8 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 *A glimpse of some of the projects I've been working on.*
 
 **Analyse attrriton in healthcare center and also determine the factor that influence attrition rate .**
-![image]({68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg)
+![image]({68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg) | ![image]({B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg) | ![image]({B7C1CEE6-DB4A-4ACD-A405-DB9296ED1D39}.png.jpg)
 
-![image]({B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg)
-
-![image]({B7C1CEE6-DB4A-4ACD-A405-DB9296ED1D39}.png.jpg)
-
-<p align="center">
-![Slide 1]({68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg)
-![Slide 2]({B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg)
-![Slide 3]({B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg)
-</p>
 
 <!DOCTYPE html>
 <html lang="en">
