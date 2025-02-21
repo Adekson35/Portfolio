@@ -21,12 +21,14 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 
 *A glimpse of some of the projects I've been working on.*
 
+# Project 1
+
 **Analyse attrriton in healthcare center and also determine the factor that influence attrition rate .**
-![image]({68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg)
+![image1]({68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg)
 
-![image]({B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg)
+![image2]({B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg)
 
-![image]({B7C1CEE6-DB4A-4ACD-A405-DB9296ED1D39}.png.jpg)
+![image3]({B7C1CEE6-DB4A-4ACD-A405-DB9296ED1D39}.png.jpg)
 
 
 <p align="center">
@@ -77,15 +79,19 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 </html>
 
 
+
 What are the key drivers of employee attrition?
 [Read More](project presentation healthcare.pdf)
 
 
+# Project 2
+
 **Coffee shop sales analysis .**
+
 ![image](Annotation 2025-02-16 194716.jpg)
 
-
 Analyze sales Trends and product revenue
+
 [Read More](coffee shop presentation.pdf)
 
 
