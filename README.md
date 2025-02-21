@@ -53,7 +53,7 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
         }
         .slides {
             display: flex;
-            width: 100%;
+            width: 200%;
             animation: slide 7s infinite;
         }
         .slides img {
@@ -81,8 +81,9 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 
 
 What are the key drivers of employee attrition?
-
 [Read More](project presentation healthcare.pdf)
+
+
 
 
 ### Project 2
@@ -92,7 +93,6 @@ What are the key drivers of employee attrition?
 ![image](Annotation 2025-02-16 194716.jpg)
 
 Analyze sales Trends and product revenue
-
 [Read More](coffee shop presentation.pdf)
 
 
