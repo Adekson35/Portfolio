@@ -30,18 +30,6 @@ Hi, i'm Samuel Adekunle! A detail-oriented and analytical Data Analyst with a st
 ![Slide 3]({B7C1CEE6-DB4A-4ACD-A405-DB9296ED1D39}.png.jpg)
 
 
-<div class="slideshow-container">
-        <div class="mySlides fade">
-          <img src="{68300354-8FAA-4885-BA27-2FEAAC6E3888}.png.jpg" alt="Image 1">
-        </div>
-        <div class="mySlides fade">
-          <img src="{B047F575-6B16-4302-921F-9D82EED22CED}.png.jpg" alt="Image 2">
-        </div>
-        <div class="mySlides fade">
-          <img src="{B7C1CEE6-DB4A-4ACD-A405-DB9296ED1D39}.png.jpg" alt="Image 2">
-        <!-- Add more image elements as needed -->
-    </div>
-
 What are the key drivers of employee attrition?
 [Read More](project presentation healthcare.pdf)
 
