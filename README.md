@@ -71,7 +71,7 @@ Analyze sales Trends and product revenue
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/samuel">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/samuel-adekunle-ade/">LinkedIn</a></td>
     </tr>
      </tbody>
 </table>
